@@ -66,7 +66,7 @@ Boot disk sizes vary by operating system: Linux OS supports 25 GB and 100 GB. Wi
 | Rocky Linux | 8.x |
 | VMWare | ESXi 7.0u3i (Cascade Lake only) | 7.0 Update 2  \n 7.0 Update 1.  \n 6.7 Update 3  \n 6.5 Update 3  \n 6.5 Update 2 |
 | vSphere | 7.0 |
-| Unbuntu | 20.04  \n 22.04 |
+| Ubuntu | 20.04  \n 22.04 |
 | SUSE Linux Enterprise Server (SLES) | 15 SP2  \n 15 SP1  \n 12 SP5  \n 12 SP4  \n 12 SP3 |
 {: caption="Table 1. {{site.data.keyword.baremetal_short}} supported operating systems" caption-side='top"}
 {: #bare-metal-oses}
